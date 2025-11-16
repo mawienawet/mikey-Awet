@@ -1,0 +1,5 @@
+{
+  "name": "Mines AI Predictor",
+  "description": "An advanced AI-powered tool that leverages real-time data analysis from major betting platforms to predict safe locations in the 'Mines' game with high accuracy. The application simulates a secure connection to official betting sites to fetch live game data for its predictions.",
+  "requestFramePermissions": []
+}
